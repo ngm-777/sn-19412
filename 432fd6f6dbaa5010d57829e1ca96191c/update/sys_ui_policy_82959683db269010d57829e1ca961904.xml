@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	alert("Request Item UI Policy");
+}]]></script_true>
+        <set_values/>
+        <short_description>OnLoad UI Policy</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:23:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82959683db269010d57829e1ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnLoad UI Policy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_update_name>sys_ui_policy_82959683db269010d57829e1ca961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:23:21</sys_updated_on>
+        <table>sc_req_item</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

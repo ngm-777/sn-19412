@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>1</order>
+        <sc_cat_item display_value="OnLoadCheck">04cd420fdbe29010d57829e1ca961997</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:01:08</sys_created_on>
+        <sys_id>ae705e4fdbe29010d57829e1ca96190b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OnLoadVarSet.OnLoadCheck</sys_name>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_update_name>io_set_item_ae705e4fdbe29010d57829e1ca96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:02:10</sys_updated_on>
+        <variable_set display_value="OnLoadVarSet">bbf0d28fdbe29010d57829e1ca961939</variable_set>
+    </io_set_item>
+</record_update>

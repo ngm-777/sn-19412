@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>1</order>
+        <sc_cat_item display_value="Copy of OnLoadCheck">7271128fdbe29010d57829e1ca961910</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:03:59</sys_created_on>
+        <sys_id>0f719a8fdbe29010d57829e1ca9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnLoadVarSet.Copy of OnLoadCheck</sys_name>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_update_name>io_set_item_0f719a8fdbe29010d57829e1ca9619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:03:59</sys_updated_on>
+        <variable_set display_value="OnLoadVarSet">bbf0d28fdbe29010d57829e1ca961939</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</application>
+        <file_path/>
+        <instance_id>e7b8cb666fdd12c04c327b2f5d3ee407</instance_id>
+        <instance_name>dev19412</instance_name>
+        <name>io_set_item_0f719a8fdbe29010d57829e1ca9619ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>1</order><sc_cat_item display_value="Copy of OnLoadCheck">7271128fdbe29010d57829e1ca961910</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-15 08:03:59</sys_created_on><sys_id>0f719a8fdbe29010d57829e1ca9619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OnLoadVarSet.Copy of OnLoadCheck</sys_name><sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package><sys_policy/><sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope><sys_update_name>io_set_item_0f719a8fdbe29010d57829e1ca9619ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-15 08:03:59</sys_updated_on><variable_set display_value="OnLoadVarSet">bbf0d28fdbe29010d57829e1ca961939</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-855728798</payload_hash>
+        <record_name>OnLoadVarSet.Copy of OnLoadCheck</record_name>
+        <reverted_from/>
+        <source>d85ce632dbea5010d57829e1ca9619e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:03:59</sys_created_on>
+        <sys_id>43719a8fdbe29010d57829e1ca9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173f12597980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:03:59</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>8b719a8febe29010afa575296a005ccd</update_guid>
+        <update_guid_history>8b719a8febe29010afa575296a005ccd:-855728798</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OnLoadVarSet.Copy of OnLoadCheck">7d81da8fdbe29010d57829e1ca9619b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:04:10</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>2805cd993eb845cc86ef13144477c9b1</sys_id>
+        <sys_metadata>0f719a8fdbe29010d57829e1ca9619ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnLoadVarSet.Copy of OnLoadCheck</sys_name>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_scope_delete display_value="">0025484100ab48bf8187dd74b1a5e681</sys_scope_delete>
+        <sys_update_name>io_set_item_0f719a8fdbe29010d57829e1ca9619ca</sys_update_name>
+        <sys_update_version display_value="io_set_item_0f719a8fdbe29010d57829e1ca9619ca">43719a8fdbe29010d57829e1ca9619ce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:04:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

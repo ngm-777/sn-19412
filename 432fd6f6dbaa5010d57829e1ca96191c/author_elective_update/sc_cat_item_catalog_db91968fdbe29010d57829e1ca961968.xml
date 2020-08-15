@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="OnLoadCheck">04cd420fdbe29010d57829e1ca961997</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:04:33</sys_created_on>
+        <sys_id>db91968fdbe29010d57829e1ca961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.OnLoadCheck</sys_name>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_db91968fdbe29010d57829e1ca961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:04:33</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</application>
+        <file_path/>
+        <instance_id>e7b8cb666fdd12c04c327b2f5d3ee407</instance_id>
+        <instance_name>dev19412</instance_name>
+        <name>sc_cat_item_catalog_db91968fdbe29010d57829e1ca961968</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="OnLoadCheck">04cd420fdbe29010d57829e1ca961997</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-15 08:04:33</sys_created_on><sys_id>db91968fdbe29010d57829e1ca961968</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.OnLoadCheck</sys_name><sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package><sys_policy/><sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope><sys_update_name>sc_cat_item_catalog_db91968fdbe29010d57829e1ca961968</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-15 08:04:33</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-462984885</payload_hash>
+        <record_name>Service Catalog.OnLoadCheck</record_name>
+        <reverted_from/>
+        <source>d85ce632dbea5010d57829e1ca9619e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:04:33</sys_created_on>
+        <sys_id>5391968fdbe29010d57829e1ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173f1261cc00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:04:33</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>9b91968f8de290101a7eb25bf4a49d6b</update_guid>
+        <update_guid_history>9b91968f8de290101a7eb25bf4a49d6b:-462984885</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.OnLoadCheck">66c112cfdbe29010d57829e1ca961999</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-15 08:05:20</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>89f400c5eae24d34ba05140ab80ccf90</sys_id>
+        <sys_metadata>db91968fdbe29010d57829e1ca961968</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.OnLoadCheck</sys_name>
+        <sys_package display_value="global_app" source="432fd6f6dbaa5010d57829e1ca96191c">432fd6f6dbaa5010d57829e1ca96191c</sys_package>
+        <sys_parent display_value="OnLoadCheck">04cd420fdbe29010d57829e1ca961997</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="global_app">432fd6f6dbaa5010d57829e1ca96191c</sys_scope>
+        <sys_scope_delete display_value="">0025484100ab48bf8187dd74b1a5e681</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_db91968fdbe29010d57829e1ca961968</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_db91968fdbe29010d57829e1ca961968">5391968fdbe29010d57829e1ca96196c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-15 08:05:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
